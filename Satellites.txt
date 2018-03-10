@@ -1,0 +1,21 @@
+#Comments
+//You can create satellites here
+//You can use astronomical units as "AU"
+// 1AU = 149.6e9 meters
+//Example:
+//
+//#Satellite
+//location: [1.7au, -2AU, 0]      x, y and z coordinates as meters, sun's starting location is zero point.
+//radius: 5						  radius as pixels. Note, sun's radius is 15 pixels and earth's 7 pixels.
+//velocity: [7000, 400, 0]		  x, y and z velocities as m/s.
+//mass: 1e6						  mass as kilograms.
+//								  "[" and "]" around location and velocity aren't necessary.
+//								  You can write also: 
+//								  location: 1.7au, -2AU, 0
+
+-----------------------------------------------------------------------------------------------------------------------
+#Satellite
+location: -1.4au, 1.5AU, 0
+radius: 5
+mass: 1.8e6
+velocity: 15000,-1000,0

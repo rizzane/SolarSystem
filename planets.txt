@@ -1,0 +1,54 @@
+#Comments
+//Don't change anything in this file!
+//Simulator may not work if you do.
+
+#Sun
+location: 0.0, 0.0, 0.0
+radius: 15
+velocity: 0, 0, 0
+mass: 1.989e30
+#Mercury
+location: 69.82e9,0,0
+radius: 5
+velocity: 0, 38.86e3, 0
+mass: 0.33011e24
+#Venus
+location: -107.48e9, 0, 0
+radius: 6
+velocity: 0, -35.26e3, 0
+mass: 4.8675e24
+#Earth 
+location: 152.1e9, 0.0, 0.0
+radius: 7
+velocity: 0.0, 29.29e3, 0.0
+mass: 5.972e24
+#Mars
+location: 249.2e9, 0.0, 0.0
+radius: 6
+velocity: 0, 24.07e3, 0.0
+mass: 6.4171e23
+#Jupiter 
+location: 740.52e9, 0,0
+radius: 13
+velocity: 0, 13.72e3,0
+mass: 1898.19e24
+#Saturn
+location: -1514.50e9,0,0
+radius: 13
+velocity: 0, -9.09e3, 0
+mass: 568.34e24
+#Uranus
+location: -2741.30e9,0,0
+radius: 13
+velocity: 0.0, -6.49e3, 0.0
+mass: 86.813e26
+#Neptune
+location: 4540.0e9,0,0
+radius: 13
+velocity: 0.0, 5.37e3, 0.0
+mass: 1.0243e26
+#Pluto
+location: -4436.82e9,0.0,0.0
+radius: 6
+velocity: 0.0, -6.10e3, 0.0
+mass: 1.290e22
